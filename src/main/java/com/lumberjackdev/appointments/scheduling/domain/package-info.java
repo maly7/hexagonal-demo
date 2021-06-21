@@ -1,1 +1,0 @@
-package com.lumberjackdev.appointments.scheduling.domain;
